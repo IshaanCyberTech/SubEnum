@@ -1,38 +1,41 @@
 # 💀 SubEnum v1.0 - Elite Subdomain Hunter  
 **Unleash the Hidden with IshaanCyberTech!**  
 
-Yo, welcome to **SubEnum** – the ultimate subdomain sniping tool built for speed, stealth, and domination. Whether you're brute-forcing like a beast or scraping the web like a shadow, this bad boy finds what’s hiding in the dark corners of the internet. Ready to own the game? Let’s roll!  
-
----
-
-## 🔥 What’s SubEnum All About?  
-SubEnum is your go-to weapon for hunting subdomains – those sneaky little doors into websites. It’s got two killer modes:  
-- **Brute-Force Mode**: Smashes through possibilities like a cyber tank.  
-- **Scraping Mode**: Sneaks around the web, grabbing subdomains from secret spots.  
-
-**Why it’s dope**:  
-- Lightning fast – no waiting around.  
-- Saves results in JSON – clean and pro.  
-- Sexy visuals – watch it work in style.  
+Hey, cyber warriors! Meet **SubEnum** – your secret weapon for sniping subdomains like a pro. This beast rips through the web with brute-force power or sneaks around scraping hidden gems. Fast, fierce, and free – it’s time to dominate! Want to cash in on this? Stick around!  
 
 ![SubEnum in Action](img/1.png)  
-*Boom! Look at those subdomains popping up like targets in a shooting range!*  
+*Boom! SubEnum lighting up the shadows – ready to roll?*  
 
 ---
 
-## 🎯 Why You’ll Love It  
-- **Find Hidden Gems**: Dig up subdomains others miss – perfect for security checks or just flexing your skills.  
-- **Hack the Planet**: Test websites, spot weak points, and stay ahead of the game.  
-- **Bragging Rights**: Show off your finds with slick output and share the glory.  
-- **Free Power**: Open-source, baby – all this juice for zero bucks!  
+## 🔥 What’s the Deal with SubEnum?  
+SubEnum is all about finding those sneaky subdomains – the backdoors to any website. It’s got two killer moves:  
+- **Brute-Force Mode**: Hammers away until it cracks the code.  
+- **Scraping Mode**: Slips through the web, snagging secrets from everywhere.  
+
+**Why it’s Fire**:  
+- Blazing speed – no time wasted.  
+- JSON loot – save your wins like a boss.  
+- Dope visuals – watch it flex in real-time.  
 
 ---
 
-## 🚀 How to Get Started  
-Ready to fire this up? It’s as easy as 1-2-3.  
+## 🎯 Why You Need This  
+- **Score Big**: Uncover subdomains nobody else sees – perfect for testing or showing off.  
+- **Rule the Game**: Spot weak spots, stay sharp, and flex your cyber skills.  
+- **Look Like a Legend**: Slick outputs and pro vibes – impress everyone.  
+- **Free Power**: Open-source awesomeness – grab it and go!  
 
-### Step 1: Grab It  
-Clone this beast from GitHub:  
+![Interactive Mode](img/2.png)  
+*Interactive mode – your hacker dashboard is live!*  
+
+---
+
+## 🚀 Get It Running  
+Let’s fire this up – it’s stupid easy!  
+
+### Step 1: Snag It  
+Grab the goods from GitHub:  
 ```bash
 git clone https://github.com/IshaanCyberTech/SubEnum.git  
 cd SubEnum  
