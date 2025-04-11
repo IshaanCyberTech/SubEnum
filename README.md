@@ -52,7 +52,7 @@ SubEnum is all about finding those sneaky subdomains – the backdoors to any we
 ## 🚀 Get It Running  
 Let’s fire this up – it’s stupid easy!  
 
-### Step 1: Snag It  
+### Steps : Installation SubEnum
 Grab the goods from GitHub:  
 ```bash
 git clone https://github.com/IshaanCyberTech/SubEnum.git  
