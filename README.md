@@ -61,10 +61,10 @@ python subenum.py
 ```
 ---
 
-⚡ How to Wield It
-Once you’re in, it’s all you. Type commands and watch the chaos unfold!
+⚡ How to use It
+Once you’re in, it’s all you!
 
-Quick Commands
+⚡Quick Commands
 Here’s your cheat sheet to dominate:
 
 Command	What It Does
@@ -85,21 +85,41 @@ Watch subdomains stack up like trophies!
 🛠️ Make It Yours
 Tune it up:
 
-set threads 50: Crank the speed to insane levels.
+set threads 50: the speed to insane levels.
 set verbose true: See every hit as it lands.
 set save_json true: Stash your wins in JSON for later.
 <div align="center"> <table> <tr> <td align="center"> <img src="img/4.png" alt="Scraping Mode" width="500"/> <br> <strong>Scraping Mode Sniping Subdomains from the Wild – Pure Stealth!</strong> </td> </tr> </table> </div> <div align="center"> <table> <tr> <td align="center"> <img src="img/5.png" alt="Final Output" width="500"/> <br> <strong>Mission Complete – Results Locked, You’re the Champ!</strong> </td> </tr> </table> </div>
-🌟 Why SubEnum Rules
+
+🌟 Why SubEnum 
 Hunt Like a Pro: Find subdomains fast and own the shadows.
 Stealth or Smash: Pick your style – quiet or loud.
 Level Up: Clean results, slick visuals – you’re the real deal.
 Crew Power: Open-source – tweak it, share it, grow it!
-💰 Cash In on the Action
-Love SubEnum? Help me keep it alive – and score some extras!
 
-Support Option	Details
-Drop a Tip	Fuel this beast with a coffee! ☕ Buy Me a Coffee
-Grab the Premium Edge	Want more? Get the SubEnum Pro Pack – extra sources, API hooks, and secret sauce. Hit me up: IshaanCyberTech@gmail.com.
-Hire the Master	Need a subdomain pro for your gig? I do custom hunts and cybersecurity jobs – slide into my inbox!
-Spread the Word	Star this repo ⭐ and share it on X: “SubEnum is fire! [link] #CyberHustle” – every shoutout helps!
 ---
+
+
+---
+
+## 🔥 Let's Connect  
+🔗 **Follow Me** on these cyber hubs!  
+<div align="center">
+  <a href="https://www.youtube.com/@ishaancybertech" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://instagram.com/ishaancybertech" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/ishaancybertech" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:ishaancybertech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/ishaancybertech" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
